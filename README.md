@@ -1,16 +1,15 @@
-# minha_agenda
+# Minha Agenda
 
-A new Flutter project.
+# Felipe Albanez Contin - 833875 
 
-## Getting Started
+## Novas Tecnologias de Informação e Comunicação - Projeto Flutter
 
-This project is a starting point for a Flutter application.
+## Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+- [Vídeo Demonstração](https://docs.flutter.dev/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplicativo desenvolvido com o foco no gerenciamento de contatos de telefone e anotações de texto, pensando em uma agenda virtual de uso fácil e acessível.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O objetivo do projeto é a oportunidade do usuário ter a centralização de seus contatos e textos em um ambiente de nuvem confiável (firebase). Possibilitando o acesso e sincronização aos dados por meio de multíplos dispositivos de maneira simples e segura.
+
+Com Minha Agenda, basta cadastrar uma conta, e ter acesso a criação de contatos, com a opção de facilmente fazer chamadas para cada respectivo contato ou abrir o teclado de telefone para ligar diretamente a um número. Caso o usuário troque de dispositivo, todas as informações anteriores ainda estarão disponíveis, pois os dados são salvos em nuvem e associados com a conta de perfil e não ao telefone físico, dessa maneira também é possível utilizar vários dispositivos simultâneamente. Minha Agenda também oferece a funcionalidade de salvar e gerenciar anotações de texto, seguindo a mesma dinâmica de manter a informação salva em nuvem.
