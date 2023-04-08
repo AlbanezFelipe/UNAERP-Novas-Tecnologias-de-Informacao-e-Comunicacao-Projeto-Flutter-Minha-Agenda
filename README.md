@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-- [Vídeo Demonstração](https://docs.flutter.dev/get-started/codelab)
+- [Vídeo Demonstração](https://youtu.be/-2bFQBr8Z1A)
 
 Aplicativo desenvolvido com o foco no gerenciamento de contatos de telefone e anotações de texto, pensando em uma agenda virtual de uso fácil e acessível.
 
