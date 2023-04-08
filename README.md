@@ -2,7 +2,7 @@
 
 # Felipe Albanez Contin - 833875 
 
-## Novas Tecnologias de Informação e Comunicação - Projeto Flutter
+## UNAERP - Novas Tecnologias de Informação e Comunicação - Projeto Flutter
 
 ## Sobre o Projeto
 
